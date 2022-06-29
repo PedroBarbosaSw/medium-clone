@@ -1,4 +1,47 @@
-# Next.js + Tailwind CSS Example
+<h4 align="center">
+ <img src="https://www.dignited.com/wp-content/uploads/2021/02/medium-logo.jpeg" alt="logo" height="150" />
+</h4>
+
+<h1 align="center">
+    🚀 UI Clone
+</h1>
+
+<p align="center">App UI Clone - Medium</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/next%20version-latest-important" />
+</p>
+
+<p align="center">
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-pré-requisitos">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rodando-a-aplicação-web">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<h3 align="center"> 
+🚧  Building  🚧
+</h3>
+
+### 📎 Features
+
+- [x] Create a post
+- [x] Add comments to a post
+- [x] Approve a comment
+- [x] Reject a comment
+
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+- Next,js
+- React.js
+- TailwindCSS 3.0
+- Sanity CMS
+- Typescript
+- GROQ
+
+<br><br><br>
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
