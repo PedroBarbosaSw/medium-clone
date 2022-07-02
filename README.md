@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-pré-requisitos">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-rodando-a-aplicação-web">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-pré-requisitos">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rodando-a-aplicação-web">To Do</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -25,10 +25,20 @@
 
 ### 📎 Features
 
-- [x] Create a post
 - [x] Add comments to a post
 - [x] Approve a comment
 - [x] Reject a comment
+
+### ⏯️ Demo
+
+[Click here](https://medium-clone-nu-pied.vercel.app/) to see the demo of this project
+
+### 🖱️ To Do
+
+- [x] Create a post
+- [ ] Approve a comment in a post directly on the frontend page
+- [ ] Delete a post
+- [ ] Delete a comment
 
 ## 🚀 Technologies
 
